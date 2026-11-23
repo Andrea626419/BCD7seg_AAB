@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+4 entradas , z, y, x, w, hacen un numero binario de 4 bits, con 7 salidas a un display de 7 segmentos, a,b,c,d,e,f,g
 
 ## How to test
 
